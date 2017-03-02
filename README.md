@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSV to DynamoDB
 ###*A library to push a csv file to dynamodb*
 
@@ -20,3 +21,6 @@ Or visiting [Here](http://docs.aws.amazon.com/amazondynamodb/latest/developergui
 Run
 `lambda-local -l handler.js -e node_modules/lambda-local/event-samples/s3-put.js`
 Will run a s3
+=======
+# csvtodynamodb
+>>>>>>> f57723c39804a9882a81721bbb508d50f50b07e6
